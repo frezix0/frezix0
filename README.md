@@ -6,7 +6,7 @@
 <!-- Profile Introduction -->
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
-  I'm <b>Marsya Florensia</b>, a passionate developer interested in <b>web development, and open-source</b>.<br>
+  I'm <b>Marsya Florensia</b>, a passionate developer interested in <b>web development</b>.<br>
   Always learning, building, and collaborating.<br>
   <br>
 </p>
